@@ -13,6 +13,7 @@ int getSum(vector<int> &numbers)
     return total;
 }
 
+
 int main()
 {
     vector<int> numbers{6, 8, 2, 4, 6, 2, 28, 12, 17, 1};
