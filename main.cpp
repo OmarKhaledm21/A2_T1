@@ -15,7 +15,7 @@ int getSum(vector<int> &numbers)
 
 double getAverage(vector<int>& numbers){
     double total = 0.0;
-    int sz = vector.size();
+    int sz = numbers.size();
     for(int& number : numbers)
     {
 	total += number;
